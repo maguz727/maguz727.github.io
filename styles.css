@@ -1,0 +1,17 @@
+body {
+    max-width: 50em;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    background: #e2e2e2;
+}
+.title {
+    text-align: center;
+}
+.container {
+    display: grid;
+    justify-content: center;
+}
+.image {
+    width: 700px;
+}
